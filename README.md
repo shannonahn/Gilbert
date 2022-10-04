@@ -5,4 +5,4 @@
 <body> 
  <IMG SRC= "![image_6483441 (13)](https://user-images.githubusercontent.com/114507311/193757515-45261122-a4af-4e6d-8d93-e44533f065f2.JPG)">
  </body>
-
+<h1> As you can see here, Gilbert is extremely studious and hardworking. This is Gilbert doing trigonometry at the age of 4. </h1>
