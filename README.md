@@ -14,3 +14,7 @@
   <li>Sleeping</li>
   <li>Listening to Jazz</li>
 </ul>  
+<body> 
+ <img src="![image_6483441 (14)](https://user-images.githubusercontent.com/114507311/193760493-9ddd47b2-158e-4b66-8c17-27be2821343c.JPG)" alt="gilbert"> 
+  </body>
+  <h4> This is a front-facing picture of Gilbert doing his trig homework. <p>&#128512;</p> </h4>
