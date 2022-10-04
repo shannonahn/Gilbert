@@ -8,7 +8,8 @@
 <h2> As you can see here, Gilbert is extremely studious and hardworking. This is Gilbert doing trigonometry at the age of 4. </h2>
  <h3> More About Gilbert and his lifestyle! </h3>
  <body> Gilbert enjoys walks in the park, grabbing coffee, and working. Gilbert is full-time therapist and has over 10 clients at the moment. Besides this, Gilbert's hobbies include:
- <ul>
+ 
+  <ul>
   <li>Gaming</li>
   <li>Baking</li>
   <li>Sleeping</li>
