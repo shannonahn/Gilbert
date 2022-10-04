@@ -16,7 +16,7 @@
   <li>Listening to Jazz</li>
 </ul>  
 <body> 
- <img src="!(https://user-images.githubusercontent.com/114507311/193760493-9ddd47b2-158e-4b66-8c17-27be2821343c.JPG)" alt="gilbert"> 
+ <img src="!"https://user-images.githubusercontent.com/114507311/193760493-9ddd47b2-158e-4b66-8c17-27be2821343c.JPG" alt="gilbert"> 
   </body>
   <h4> This is a front-facing picture of Gilbert doing his trig homework. <p>&#128512;</p> </h4>
 <a href="https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=kimrachael25.wixsite.com%2Fmy-site-1"> Click here if you'd like to support Gilbert and his friends by donating!</a> 
