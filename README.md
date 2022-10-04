@@ -19,3 +19,5 @@
  <img src="![image_6483441 (14)](https://user-images.githubusercontent.com/114507311/193760493-9ddd47b2-158e-4b66-8c17-27be2821343c.JPG)" alt="gilbert"> 
   </body>
   <h4> This is a front-facing picture of Gilbert doing his trig homework. <p>&#128512;</p> </h4>
+<h5> If you want to support Gilbert and help his friends, go to this website to donate! </h5>
+<p><a href="https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=kimrachael25.wixsite.com%2Fmy-site-1</a></p>
