@@ -3,7 +3,7 @@
 <head> Welcome to Gilbert the Goose's Website <3 </head>
  <h1> Gilbert is a stuffed Goose who is the mascot of perfectionism. He inspires others to be just like him, dapper, talented, and of course, <strong>flawless</strong>. </h1>
 <body> 
- <img src="![image_6483441 (15)](https://user-images.githubusercontent.com/114507311/193761945-24314bf9-caa8-4229-b341-cc0556eeff6f.JPG)" alt="gilbert1">
+ <img src="https://user-images.githubusercontent.com/114507311/193761945-24314bf9-caa8-4229-b341-cc0556eeff6f.JPG" alt="gilbert1">
  </body>
 <h2> As you can see here, Gilbert is extremely studious and hardworking. This is Gilbert doing trigonometry at the age of 4. </h2>
  <h3> More About Gilbert and his lifestyle! </h3>
